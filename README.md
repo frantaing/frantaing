@@ -11,6 +11,10 @@
 
 ---
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tiMmVrcjBlNTU5c2E1NG50emY3aGxlOGRpcXEyZTkzdDl2cGh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDoVTjoLg08QfRsI4Y/giphy.gif" width="100%" alt="cool pixel art greeting">
+
+---
+
 I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison and I love recreating websites and doing frontend-adjacent projects.
 
 - 🎓 Soon to be graduating with a B.S. in Computer Science from Mapúa University.
