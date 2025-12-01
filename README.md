@@ -19,7 +19,7 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison a
 
 - 🎓 Soon to be graduating with a B.S. in Computer Science from Mapúa University.
 - 💻 My main playground: **HTML, CSS, JavaScript, Tailwind, and React**.
-- 🩸 Currently working on VtM tools and probably more frontend.
+- 🩸 Currently working on VtM tools and probably more frontend (learing Svelte 🤗).
 - 🌱 My personal quest: A fully green contribution chart! This way, I can finally know the feel of grass...
 
 ---
@@ -44,6 +44,12 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison a
 - **[Schrecknet Lite](https://github.com/frantaing/schrecknet-lite)**: A web-based character sheet tool for V20, built with vanilla JS and Tailwind CSS. 
 - **[VtM NPC Progression Tool](https://github.com/frantaing/vtm-npc-progression)**: A Python TUI app using `curses` to quickly stat out NPCs by allocating freebie points based on age (or you can just go wild with unlimited points).
 - **[Blasted Glass](https://github.com/frantaing/blasted-glass)**: A storage container for random UI I made and liked, even when it doesn't fit whatever project it originated from.
+
+### ✨ Check out some recreates!
+
+- **[Monstercat Album Rlease Page](https://github.com/frantaing/monstercat-page-recreate)**: A recreate of [Monstercat's Level Days album release page](https://www.monstercat.com/release/MCLP017), complete with a music player!
+- **[Monogram Shop Page](https://github.com/frantaing/monogram-shop-recreate)**: A recreate of [Monogram's shop page](https://monogramcc.com/shop/), with all its sidebars, dropdowns, and cool cross-fade hover-animation for product items.
+- **[Backstage Talks Page](https://github.com/frantaing/backstagetalks-recreate)**: A recreate of [Backstage Talk Magazine's website](https://backstagetalks.com/), with its cool scroll-snapping and background color changes.
 
 <!-- [HIDDEN]
 - **[VtM Character Vault](...)**: A personal lil wiki of all my VtM characters so I can ponder on them whenever I want.
