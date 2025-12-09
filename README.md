@@ -19,7 +19,7 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison a
 
 - 🎓 Soon to be graduating with a B.S. in Computer Science from Mapúa University.
 - 💻 My main playground: **HTML, CSS, JavaScript, Tailwind, and React**.
-- 🩸 Currently working on VtM tools and probably more frontend (learing Svelte 🤗).
+- 🩸 Currently working on VtM tools and probably more frontend.
 - 🌱 My personal quest: A fully green contribution chart! This way, I can finally know the feel of grass...
 
 ---
@@ -45,6 +45,7 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison a
 - **[VtM NPC Progression Tool](https://github.com/frantaing/vtm-npc-progression)**: A Python TUI app using `curses` to quickly stat out NPCs by allocating freebie points based on age (or you can just go wild with unlimited points).
 - **[VtM Character Vault](https://github.com/frantaing/vtm-character-vault)**: A website built with React, that works as a centralized repository of my VtM characters.
 - **[Blasted Glass](https://github.com/frantaing/blasted-glass)**: A storage container for random UI I made and liked, even when it doesn't fit whatever project it originated from.
+- **[gh-helper](https://github.com/frantaing/gh-helper)**: A TUI tool, build with `gum` and `gh`, for doing Github things the website won't let you do via `github-cli`.
 
 ### ✨ Check out some recreates!
 
