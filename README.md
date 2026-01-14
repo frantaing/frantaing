@@ -15,7 +15,7 @@
 
 ---
 
-I'm a Computer Science student and VtM nerd. Frontend is my ~~passion~~ prison and I love recreating websites and doing frontend-adjacent projects.
+I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion and I love recreating websites and doing frontend-adjacent projects.
 
 - 🎓 Soon to be graduating with a B.S. in Computer Science from Mapúa University.
 - 💻 My main playground: **HTML, CSS, JavaScript, Tailwind, and React**.
