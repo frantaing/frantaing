@@ -51,8 +51,12 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 ---
 
+<p align="center">  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=frantaing&show_icons=true&theme=gruvbox" alt="frantaing's GitHub Stats" />
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frantaing&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="frantaing's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=frantaing&theme=dracula&hide_border=true" alt="frantaing's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantaing&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="frantaing's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=frantaing&theme=gruvbox" alt="frantaing's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=frantaing&layout=compact&theme=gruvbox" alt="frantaing's Top Languages" />
 </p>
