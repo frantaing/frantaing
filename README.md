@@ -11,10 +11,6 @@
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tiMmVrcjBlNTU5c2E1NG50emY3aGxlOGRpcXEyZTkzdDl2cGh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDoVTjoLg08QfRsI4Y/giphy.gif" width="100%" alt="cool pixel art greeting">
-
----
-
 I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion and I love recreating websites and doing frontend-adjacent projects.
 
 - 🎓 Soon to be graduating with a B.S. in Computer Science from Mapúa University.
@@ -43,8 +39,8 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 - **[Schrecknet Lite](https://github.com/frantaing/schrecknet-lite)**: A web-based character sheet tool for V20, built with vanilla JS and Tailwind CSS. 
 - **[VtM NPC Progression Tool](https://github.com/frantaing/vtm-npc-progression)**: A Python TUI app using `curses` to quickly stat out NPCs by allocating freebie points based on age (or you can just go wild with unlimited points).
-- **[VtM Character Vault](https://github.com/frantaing/vtm-character-vault)**: A website built with React, that works as a centralized repository of my VtM characters.
-- **[Blasted Glass](https://github.com/frantaing/blasted-glass)**: A storage container for random UI I made and liked, even when it doesn't fit whatever project it originated from.
+- **[VtM Character Vault](https://github.com/frantaing/vtm-character-vault)**: A website built with React, that works as a centralized repository of my VtM characters. Built with React.
+- **[Blasted Glass](https://github.com/frantaing/blasted-glass)**: A weird UI/website storage container monorepo that's also kind of my portfolio. Built with Svelte.
 - **[gh-helper](https://github.com/frantaing/gh-helper)**: A TUI tool, build with `gum` and `gh`, for doing Github things the website won't let you do via `github-cli`.
 
 ### ✨ Check out some recreates!
