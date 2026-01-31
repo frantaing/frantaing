@@ -51,12 +51,14 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 ---
 
-<p align="center">  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=frantaing&show_icons=true&theme=gruvbox" alt="frantaing's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=frantaing&theme=gruvbox" alt="frantaing's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=frantaing&layout=compact&theme=gruvbox" alt="frantaing's Top Languages" />
-</p>
+### 📊 My Github Stats
+
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=frantaing&layout=compact&show_icons=true&theme=dracula" alt="frantaing github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=frantaing&theme=dracula" width="51%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=frantaing&layout=compact&theme=dracula" alt="frantaing github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=frantaing&theme=dracula" alt="frantaing github readme activity graph" width="60%" />
+</div>
