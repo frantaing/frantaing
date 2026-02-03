@@ -20,16 +20,8 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 ---
 
-### 🧰 My Toolbox
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass" />
-</a>
-
-<br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,angular,svelte,java,python,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,svelte,astro,figma,java,cpp,py" />
 </a>
 
 ---
