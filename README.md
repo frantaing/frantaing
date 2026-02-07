@@ -30,7 +30,7 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 - **[Schrecknet Lite](https://github.com/frantaing/schrecknet-lite)**: A web-based character sheet tool for V20, built with vanilla JS and Tailwind CSS. 
 - **[VtM NPC Progression Tool](https://github.com/frantaing/vtm-npc-progression)**: A Python TUI app using `curses` to quickly stat out NPCs by allocating freebie points based on age (or you can just go wild with unlimited points).
-- **[VtM Character Vault](https://github.com/frantaing/vtm-character-vault)**: A website built with React, that works as a centralized repository of my VtM characters. Built with React.
+- **[VtM Character Vault](https://github.com/frantaing/vtm-character-vault)**: A website that works as a centralized repository of my VtM characters. Built with Astro 5, Markdown, and React Islands.
 - **[Blasted Glass](https://github.com/frantaing/blasted-glass)**: A weird UI/website storage container monorepo that's also kind of my portfolio. Built with Svelte.
 - **[gh-helper](https://github.com/frantaing/gh-helper)**: A TUI tool, build with `gum` and `gh`, for doing Github things the website won't let you do via `github-cli`.
 
