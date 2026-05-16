@@ -42,8 +42,6 @@ I'm a Computer Science student and VtM nerd. Frontend is my ~~prison~~ passion a
 
 ---
 
-### 📊 My Github Stats
-
 <div>
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=frantaing&layout=compact&show_icons=true&theme=dracula" alt="frantaing github-readme-stats" width="48%" />
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=frantaing&theme=dracula" width="51%" />
